@@ -6,7 +6,7 @@ const Card = () => {
   return (
     <div className="flex flex-col h-[60vh] w-[25vw] justify-center  rounded-xl p-4 bg-gray-100 gap-2 ">
       <div className="flex justify-between items-center">
-        <div className="bg-green-900 p-1 rounded-xl text-white">-20%</div>
+        <div className="bg-green-900 p-1 rounded-xl text-white">-30%</div>
         <CiHeart className="h-6 w-6 hover:fill-red-700" />
       </div>
       <div className="">
